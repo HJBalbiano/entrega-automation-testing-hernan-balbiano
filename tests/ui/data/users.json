@@ -1,0 +1,22 @@
+[
+  {
+    "case": "usuario valido",
+    "username": "standard_user",
+    "password": "secret_sauce",
+    "valid": true
+  },
+  {
+    "case": "usuario bloqueado",
+    "username": "locked_out_user",
+    "password": "secret_sauce",
+    "valid": false,
+    "expected_error": "Sorry, this user has been locked out."
+  },
+  {
+    "case": "password incorrecto",
+    "username": "standard_user",
+    "password": "wrong",
+    "valid": false,
+    "expected_error": "Username and password do not match any user in this service"
+  }
+]

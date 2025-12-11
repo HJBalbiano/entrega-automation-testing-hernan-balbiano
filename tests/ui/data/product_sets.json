@@ -1,0 +1,14 @@
+[
+  {
+    "set": "backpack y bike light",
+    "products": ["Sauce Labs Backpack", "Sauce Labs Bike Light"]
+  },
+  {
+    "set": "bolt t-shirt",
+    "products": ["Sauce Labs Bolt T-Shirt"]
+  },
+  {
+    "set": "onesie y red t-shirt",
+    "products": ["Sauce Labs Onesie", "Test.allTheThings() T-Shirt (Red)"]
+  }
+]
