@@ -1,6 +1,6 @@
-# Testing-Python demo automation suite
+# Entrega Automation Testing Balbiano
 
-Proyecto de ejemplo que combina pruebas de UI (Selenium + Page Object Model) y pruebas de API (Requests) ejecutadas con `pytest`.
+Proyecto de entrega final que combina pruebas de UI (Selenium + Page Object Model) y pruebas de API (Requests) ejecutadas con `pytest`.
 
 ## Requisitos
 - Python 3.10+
